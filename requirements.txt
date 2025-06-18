@@ -1,0 +1,9 @@
+streamlit
+open-clip-torch
+pillow
+pymupdf
+scikit-learn
+torch
+tqdm
+matplotlib
+fpdf
